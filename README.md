@@ -1,5 +1,15 @@
 # Enterprise Autonomous AI Agent Skills & Sync Platform
 
+<div align="center">
+
+[![Maintenance: Actively Maintained](https://img.shields.io/badge/Maintenance-Actively%20Maintained-brightgreen.svg)](#maintenance-sla--support)
+[![CI Quality Gate](https://github.com/MishraShardendu22/agent-skills-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/MishraShardendu22/agent-skills-engine/actions)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
+[![Runtime: Universal Agent Engine](https://img.shields.io/badge/Compatible-Antigravity%20%7C%20Claude%20%7C%20Jules%20%7C%20Cursor-purple.svg)](#what-it-does)
+[![Spec: SKILL.md Standard](https://img.shields.io/badge/Spec-SKILL.md%20Compliant-orange.svg)](#what-it-does)
+
+</div>
+
 > [!IMPORTANT]
 > **PROPRIETARY & CLOSED-SOURCE SOFTWARE**
 > This repository is a public product showcase and high-level architectural specification. The underlying codebase, cross-repository synchronization engine, validation compilers, and automation daemons are strictly **closed source and proprietary**, owned by **Shardendu Mishra**.
@@ -48,6 +58,16 @@ Eliminating conversational hallucination, context degradation, and forgotten qua
 
 ---
 
+## Maintenance, SLA & Support
+
+- **Active Maintenance**: Specifications, agent runtime compatibility, and SKILL.md schema validators are maintained continuously.
+- **Automated CI Validation**: Pre-commit quality gates and CI pipelines validate 100% of specification files on every push.
+- **Enterprise SLA**: Dedicated enterprise support for hub-and-spoke synchronization integrations.
+
+For disclosure policies, review [SECURITY.md](SECURITY.md) and [CONTRIBUTING.md](CONTRIBUTING.md).
+
+---
+
 ## Commercial Licensing & Inquiries
 
 Access to the proprietary source code, container images, and deployment runbooks is restricted to authorized partners and clients under signed commercial agreement.
@@ -55,11 +75,11 @@ Access to the proprietary source code, container images, and deployment runbooks
 - **Author & Copyright Holder**: Shardendu Mishra
 - **Email**: mishrashardendu22@gmail.com
 - **Website**: [mishrashardendu22.is-a.dev](https://mishrashardendu22.is-a.dev)
-- **Profile**: [@MishraShardendu22](https://github.com/MishraShardendu22)
+- **GitHub Profile**: [@MishraShardendu22](https://github.com/MishraShardendu22)
 
 ---
 
 ## License
 
 Copyright &copy; 2026 Shardendu Mishra. All Rights Reserved.
-Proprietary and closed-source software.
+This project is proprietary and closed-source software. See [LICENSE](LICENSE) for full terms.
